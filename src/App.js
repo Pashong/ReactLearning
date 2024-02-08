@@ -100,8 +100,8 @@ export default function Game(){
   )
 }
 
-//i'm  sick of thisa awd adadwaawad awdadwad wadwad
-
+//i'm  sick of thisa awd adadwaawad awdadwad wadwad awdadl ajwdlka jljd wadwad
+// was passiert hiert
 function calculateWinner(squares){
   const lines = [
     [0,1,2],
