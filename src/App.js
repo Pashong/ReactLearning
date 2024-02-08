@@ -100,7 +100,7 @@ export default function Game(){
   )
 }
 
-//testing this
+//i'm  sick of thisa awd adadwaawad awdadwad wadwad
 
 function calculateWinner(squares){
   const lines = [
